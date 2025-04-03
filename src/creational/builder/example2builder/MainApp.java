@@ -1,7 +1,7 @@
-package creational.example2builder;
+package creational.builder.example2builder;
 
-import creational.example2builder.contactus.ContactUsFormBuilder;
-import creational.example2builder.interfaces.Form;
+import creational.builder.example2builder.contactus.ContactUsFormBuilder;
+import creational.builder.example2builder.interfaces.Form;
 
 public class MainApp {
     public static void main(String[] args) {

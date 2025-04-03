@@ -1,6 +1,6 @@
-package creational.example2builder.contactus;
+package creational.builder.example2builder.contactus;
 
-import creational.example2builder.interfaces.Form;
+import creational.builder.example2builder.interfaces.Form;
 
 public class ContactUsForm implements Form {
     private String firstName;

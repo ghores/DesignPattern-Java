@@ -1,7 +1,7 @@
-package creational.example2builder.contactus;
+package creational.builder.example2builder.contactus;
 
-import creational.example2builder.interfaces.Form;
-import creational.example2builder.interfaces.FormBuilder;
+import creational.builder.example2builder.interfaces.Form;
+import creational.builder.example2builder.interfaces.FormBuilder;
 
 public class ContactUsFormBuilder implements FormBuilder {
     private final ContactUsForm form;

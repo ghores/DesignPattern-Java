@@ -1,4 +1,4 @@
-package creational.example3builder;
+package creational.builder.example3builder;
 
 public class Email {
     private String sender;

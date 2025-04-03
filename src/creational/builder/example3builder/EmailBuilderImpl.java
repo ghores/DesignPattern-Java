@@ -1,4 +1,4 @@
-package creational.example3builder;
+package creational.builder.example3builder;
 
 public class EmailBuilderImpl implements EmailBuilder {
     private final Email email;
